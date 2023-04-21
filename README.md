@@ -1,3 +1,6 @@
 # salamuna 
 currently:
-* swe student at launch school, and 42
+* software engineering student
+
+previously:
+* startup founder
