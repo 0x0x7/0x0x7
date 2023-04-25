@@ -7,4 +7,4 @@ previously:
 
 always: 
 
-* a sportsperson
+* sportsperson
