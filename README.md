@@ -4,3 +4,7 @@ currently:
 
 previously:
 * startup founder
+
+always: 
+
+* a sportsperson
