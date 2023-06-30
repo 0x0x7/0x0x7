@@ -3,8 +3,4 @@ currently:
 * software engineering student
 
 previously:
-* startup founder
-
-always: 
-
-* sportsperson
+* failed startup founder, and cricketer
