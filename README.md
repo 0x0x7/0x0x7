@@ -1,6 +1,6 @@
 # salamuna 
 currently:
-* software engineering student
+* software engineering
 
 previously:
 * startup founder, and cricketer
