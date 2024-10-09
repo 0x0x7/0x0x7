@@ -1,6 +1,3 @@
 # salamuna 
-currently:
-* software engineering
+have you tried turning it off and on? 
 
-previously:
-* startup founder, and cricketer
